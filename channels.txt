@@ -1,0 +1,28 @@
+NBC https://www.nbc.com/shows/current nbc.png
+ABC https://abc.go.com/shows abc.png
+CBS https://www.cbs.com/shows cbs.png
+CW http://www.cwtv.com/shows/ cw.png
+
+CWSeed http://www.cwseed.com/shows/ cwseed.png
+SonyCrackle https://www.sonycrackle.com/shows sc.jpeg
+TBS https://www.tbs.com/shows tbs.png
+Freeform https://freeform.go.com/ freeform.png
+
+TNT https://www.tntdrama.com/shows tnt.png
+AdultSwim http://www.adultswim.com/videos/ as.png
+ESPN http://www.espn.com/watch/ espn.png
+SundanceTV https://www.sundancetv.com/full-episodes sundance.png
+
+NatGeo https://www.nationalgeographic.com/tv/shows/ natgeo.png
+Science https://www.sciencechannel.com/tv-shows/ sci.png
+SmithsonianChannel https://www.smithsonianchannel.com/full-episodes smith.png
+PBS https://www.pbs.org/shows/ pbs.png
+
+TubiTV https://tubitv.com/home tubi.png
+PopcornFlix https://www.popcornflix.com/pages/discover/d/tv-shows popcorn.png
+YahooView https://view.yahoo.com/browse/tv/shows yahooview.png
+PlutoTV http://pluto.tv/tv/cbsn-2 pluto.png
+
+FOX https://www.fox.com/shows/ fox.png
+HGTV https://watch.hgtv.com/tv-shows/?utm_source=marketingsite&utm_medium=trending hgtv.png
+DIY http://watch.diynetwork.com/ diy.png
