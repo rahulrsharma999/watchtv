@@ -9,10 +9,6 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Watch TV</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
-	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
-	<meta name="author" content="FREEHTML5.CO" />
-
 
   <!-- Facebook and Twitter integration -->
 	<meta property="og:title" content=""/>
@@ -77,7 +73,7 @@
 			<div class="row">
 				<div class="col-md-12">
 					<!-- <a href="#" class="fh5co-menu-btn js-fh5co-menu-btn">Menu <i class="icon-menu"></i></a> -->
-					<a class="navbar-brand" href="index.html">Watch TV</a>
+					<a class="navbar-brand" href="index.html" style="text-align: center; width: -moz-available;">Watch TV</a>
 				</div>
 			</div>
 		</div>
@@ -87,29 +83,15 @@
 
 	<div id="fh5co-main">
 		<div class="container">
-
 			<div class="row">
-
         <div id="fh5co-board" data-columns>
-
 					<!-- channels will be added here-->
-
-					<!-- <div class="item">
-        		<div class="animate-box">
-	        		<a href="images/nbc.png" class="image-popup fh5co-board-img" title="NBC">
-								<img src="images/nbc.png" alt="NBC"></a>
-        		</div>
-        	</div> -->
-
-
-
         </div>
-        </div>
-       </div>
+      </div>
+    </div>
 	</div>
 
 	<footer id="fh5co-footer">
-
 		<div class="container">
 			<div class="row row-padded">
 				<div class="col-md-12 text-center">
@@ -154,7 +136,7 @@
 				var channelUrl = lineData[1];
 				var channelLogo = lineData[2];
 				finalHtml +=
-					`<div class="column size-1of4"><div class="item">\
+					`<div class="column"><div class="item">\
 						<div class="animate-box">\
 							<a href=` + channelUrl + ` target="_blank" title=` + channelName + `>\
 								<img src=images/` + channelLogo + ` style="background: url(bg_apple_little.gif) no-repeat center center; height: 120px; width: 120px;"></a>\
